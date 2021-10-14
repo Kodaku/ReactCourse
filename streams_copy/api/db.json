@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me! PATCH",
+      "userId": "104481282262624435097",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "This is my stream and now it's updated",
+      "id": 4
+    },
+    {
+      "title": "fregrt",
+      "description": "ggrtgtget",
+      "userId": "104481282262624435097",
+      "id": 5
+    }
+  ]
+}
